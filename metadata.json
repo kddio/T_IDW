@@ -1,0 +1,5 @@
+{
+  "name": "TDAR-IDW Sync Engine",
+  "description": "High-precision sensor synchronization using Time-Distance and Acceleration-Rate Inverse Distance Weighting.",
+  "requestFramePermissions": []
+}
